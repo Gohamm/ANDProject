@@ -13,4 +13,5 @@ units may be vary in which they are meassured. In conclusion, the idea is to cre
 * As a user I would like to convert Major currencies into DKK
 * As a user I would like to convert Imperial units into matrix units
 * As a user I would like to easily navigate between converting units and currency
-* As a user I would like to...
+* As a user I would like to know where to input units/ currencies
+* As a user I would like a simplistic UI to quicky convert units or currency on the go
