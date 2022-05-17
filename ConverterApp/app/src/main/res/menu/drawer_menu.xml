@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_convert_currency"
+            android:icon="@drawable/ic_currency_echange"
+            android:title="Currency converter"/>
+
+        <item android:id="@+id/nav_convert_unit"
+            android:icon="@drawable/ic_unit_converter"
+            android:title="Unit converter"/>
+
+    </group>
+
+    <item android:title="about"
+        android:id="@+id/about"/>
+
+
+
+</menu>
